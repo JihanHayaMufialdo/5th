@@ -7,6 +7,8 @@ int main (){
 	for (char x:nama){
 		if (x=='a'||x=='A'){
 		cout << "*" ;
-	} else { cout << x;
+	} 
+	else { 
+		cout << x;
 	}
 }
