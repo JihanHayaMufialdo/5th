@@ -1,0 +1,36 @@
+Akibat kenaikan harga Bitcoin beberapa hari kebelakang, investornya sudah mulai take profit dan ingin mencari koin kripto baru yang memilki potensi. 
+Ethereum, dipilih sebagai kripto yang dinilai memiliki fundamental yang bagus. 
+Kita diminta untuk membuat program dan juga FLOWCHART yang menerima input berupa N hari dan juga pembelian Ethereum pada masing-masing hari. 
+Output dari program ini adalah rata-rata dari pembelian Ethereum perhari, total ETH yang dibeli selama N hari, 
+dan konversi total Ethereum ke US Dolar (Gunakan harga $4000 per ETH). Implementasikanlah ARRAY dan LOOP pada program ini.
+
+Format masukan
+Baris pertama berisi N hari
+Baris kedua berisi N nilai pembelian Ethereum
+
+Format keluaran
+Baris pertama rata-rata pembelian perhari
+Baris kedua berisi total ETH yang dibeli selama N hari
+Baris ketiga berisi hasil konversi total ETH ke US Dolar
+
+Contoh Masukan 1
+4
+3 1.5 2 5
+
+Contoh Keluaran 1
+Rata-Rata: 2.875 ETH
+Total ETH: 11.5 ETH
+Dalam USD: $46000
+
+//Penjelasan
+Investor membeli kripto 4 hari berturut-turut,  yaitu 3 ETH pada hari pertama, 1.5, 2, 5 pada hari selanjutnya. Rata-rata pembelian adalah 2.875 ETH perhari, 
+total pembelian 11.5 ETH, dan jika dikonversi ke dalam USD, 11.5 ETH itu adalah $46000 (Kurs 1 ETH = 4000 USD)
+
+Contoh Masukan 2
+6
+2 6 0 1.3 4.2 1
+
+Contoh Keluaran 2
+Rata-Rata: 2.41667 ETH
+Total ETH: 14.5 ETH
+Dalam USD: $58000
