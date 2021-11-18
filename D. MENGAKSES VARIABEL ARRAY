@@ -1,0 +1,14 @@
+Untuk mengakses variabel array tidak jauh beda dengan cara mengakses variabel biasa, 
+untuk mengakses variabel array membutuhkan Operator subscript ( [] ) dengan index di dalamnya yang diletakan setelah identitas variabel.
+
+- Contoh :
+
+grade[2];
+
+Contoh di atas akan mengakses elemen ketiga dari variabel “grade”. 
+Index yang berada di dalam subscript digunakan untuk mengakses nilai elemen berdasarkan konstanta yang diberikan.
+Pada contoh di atas kita mencoba untuk mengakses elemen keiga dari variabel “grade”.
+
+
+//CONTOH
+
