@@ -1,0 +1,8 @@
+- Pada bahasa pemrograman C++ dalam mendirikan sebuah variabel array kita dimungkinkan untuk mendirikan variabel array tanpa menyertakan ukuran, 
+  hanya operator subscript tanpa nilai di dalamnya. Tapi untuk melakukan hal itu, kita diwajibkan untuk menyertai dengan inisialisasi. 
+  
+- Bukan berarti jika variabel array tidak menggunakan ukuran akan memiliki elemen yang dinamis. 
+  Variabel array dengan cara tersebut masih dalam golongan variabel array statis. 
+  Dan compiler selalu akan membutuhkan ukuran array untuk alokasi (elemen) yang dibutuhkan.
+  
+  
