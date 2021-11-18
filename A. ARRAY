@@ -5,6 +5,10 @@
 - Untuk mendirikan sebuah variabel array sama seperti kita mendirikan sebuah variabel biasa yang dimana membutuhkan tipe data, identifier, dan titik koma. 
 - Untuk merubah variabel biasanya menjadi variabel array adalah dengan menambahkan operator subscript ( [] ).
 
+Bahasa pemrograman C++ tepatnya pada fitur array selalu menggunakan bilangan cacah (bilangan dimulai dari 0). 
+Dan setiap elemen yang kita pesan akan di nomori berdasarkan urutan dari 0 sampai sebanyak yang kita pesan. 
+Misalnya kita memesan grade[50] maka elemen pertama berada pada urutan nomer 0 dan elemen terakhir berada pada urutan 49.
+
 // Syntax :
 
 tipedata identifier[ukuran];
