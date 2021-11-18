@@ -5,4 +5,8 @@
   Variabel array dengan cara tersebut masih dalam golongan variabel array statis. 
   Dan compiler selalu akan membutuhkan ukuran array untuk alokasi (elemen) yang dibutuhkan.
   
-  
+- Contoh :
+
+int nilai[]={2,4,7,9};
+
+Pada contoh penulisan di atas compiler akan mendeklarasikan sebuah variabel array yang memiliki 4 elemen yang dihitung berdsarkan jumlah nilai pada proses inisialisasi.
