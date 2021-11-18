@@ -12,3 +12,17 @@ Pada contoh di atas kita mencoba untuk mengakses elemen keiga dari variabel “g
 
 //CONTOH
 
+int main ()
+{
+    char grade[3]={};
+
+    grade[0] = 'a';
+    grade[1] = 'b';
+    grade[2] = 'c';
+
+    cout<<"0 : "<<grade[0]<<endl;
+    cout<<"1 : "<<grade[1]<<endl;
+    cout<<"2 : "<<grade[2]<<endl;
+
+    return 0;
+}
