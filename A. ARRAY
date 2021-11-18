@@ -12,11 +12,3 @@ tipedata identifier[ukuran];
 - Contoh :
 
 char nama[20];
-
-//CONTOH 
-
-int main(){
-    int npm[10];
-    cin >> npm;
-    cout << "NPM Saya " << npm;
-}
