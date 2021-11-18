@@ -1,0 +1,22 @@
+- Array atau Larik adalah sebuah variabel yang memiliki serangkaian elemen dari jenis tipe data yang sama. 
+- Elemen-elemen tersebut dirangkai di dalam memori yang berdekatan dengan elemen lainya. 
+- Array merupakan kumpulan variabel dengan satu indentifier dan satu tipe data yang sama, dan dalam istilah array, kumpulan dari variabel tersebut adalah elemen.
+
+- Untuk mendirikan sebuah variabel array sama seperti kita mendirikan sebuah variabel biasa yang dimana membutuhkan tipe data, identifier, dan titik koma. 
+- Untuk merubah variabel biasanya menjadi variabel array adalah dengan menambahkan operator subscript ( [] ).
+
+// Syntax :
+
+tipedata identifier[ukuran];
+
+- Contoh :
+
+char nama[20];
+
+//CONTOH 
+
+int main(){
+    int npm[10];
+    cin >> npm;
+    cout << "NPM Saya " << npm;
+}
