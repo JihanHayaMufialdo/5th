@@ -3,7 +3,7 @@
   
 - Apa yang kita butuhkan untuk inisialisasi sebuah variabel array adalah sepasang tanda kurung kurwal yang mengapit semua nilai tersebut.
 
-Contoh :
+//Contoh :
 
 int grade[50] = {100, 90, 80, 70, 60, 50, 40, 30, 20, 10};
 
