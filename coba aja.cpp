@@ -9,6 +9,10 @@ int main(){
 	
 	int a[jumlah],angka;
 	
+	for(int i=1; i<=jumlah; i++){
+		cout << "masukkan angka ke " << i << " : ";
+		cin >> angka;
+	}
 }
 	
 
