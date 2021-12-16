@@ -2,7 +2,7 @@
 using namespace std;
 int main (){
 	
-	char nama[5] = "alif";
+	
 	
 	for (char x:nama){
 		if (x=='a'||x=='A'){
